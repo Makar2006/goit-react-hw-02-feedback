@@ -1,0 +1,17 @@
+.mainSection {
+  margin-left: 5px;
+
+  height: auto;
+  width: 350px;
+
+  border-radius: 5px;
+}
+.mainTitle {
+  margin-bottom: 15px;
+  text-align: center;
+
+  color: black;
+
+  font-size: 22px;
+  font-weight: 600;
+}
